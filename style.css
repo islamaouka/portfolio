@@ -167,7 +167,8 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background:url("https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fbecome&psig=AOvVaw0jPUnanQqL4kusRpS1_715&ust=1682332944870000&source=images&cd=vfe&ved=0CAQQjB1qFwoTCLCumuHov_4CFQAAAAAdAAAAABAR");
+    
+    background:url("https://www.dynamique-mag.com/wp-content/uploads/db6627f766186e082546671e00e5f0ab.jpg");
     height: 100vh;
     color: #fff;
     min-height: 500px;
